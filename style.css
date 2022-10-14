@@ -1,0 +1,16 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #eff9bb;
+}
+
+.row {
+  padding-top: 4rem;
+}
+
+.nct127 {
+  padding-top: 2rem;
+}
